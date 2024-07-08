@@ -1,7 +1,6 @@
 import Colaborador from '../Colaborador'
 import { IColaborador } from '../../shared/interface/IColaborador'
 import './Time.css'
-import { Fragment } from 'react/jsx-runtime'
 
 interface TimeProps {
     corSecundaria: string,
@@ -20,7 +19,7 @@ const Time = ({ corSecundaria, colaboradores, corPrimaria, nome }: TimeProps) =>
                 {colaboradores.map(colaborador => <Colaborador corDeFundo={corPrimaria} key={colaborador.nome} colaboradores={colaborador} />)}
             </div>
         </section>
-            : <Fragment />
+            : ''
     )
 }
 
