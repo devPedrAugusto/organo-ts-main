@@ -1,30 +1,28 @@
-![Integrando seu projeto React com APIs](thumbnail.png)
+# 🎮 Organo
 
-# Organo
+## 📌 Sobre o Projeto  
+**Organo** é uma aplicação web interativa que permite ao usuário:
 
-O Organo é aplicação desenvolvida no curso <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">React: desenvolvendo com JavaScript</a>. 
-Foi pensado e idealizado para ser o primeiro projeto em contato com o React.
+- Criar times personalizados  
+- Cadastrar funcionários  
+- Atribuir funcionários a determinados times  
+- Editar informações dos times e dos funcionários  
+- Preencher campos de texto e seleção para organização dos dados  
 
-<img src="screencapture.png" alt="Imagem do Organo" width="50%">
+Este projeto foi desenvolvido com o foco em praticar a criação de interfaces dinâmicas, componentizadas e conectadas.
 
+---
 
-## 🔨 Funcionalidades do projeto
+## 🚀 Tecnologias Utilizadas  
 
-Você pode passear <a href="https://cursos.alura.com.br/course/react-desenvolvendo-javascript" target="_blank">no figma</a> para entender a arte conceitual do projeto.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)   
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)   
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)   
 
-## ✔️ Técnicas e tecnologias utilizadas
+---
 
-Se liga nessa lista de tudo que usaremos nessa formação:
-
-- `React`
-- `React Hooks`
-- `TypeScript`
-
-E muito mais!
-
-## 🛠️ Abrir e rodar o projeto
-
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm start` para inicar o projeto.
-
-Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no seu navegador.
+## 🎯 Objetivo do Projeto  
+O **Organo** foi o projeto responsável por iniciar meus estudos em **TypeScript**, além de me proporcionar a experiência prática de integrá-lo ao **React**. Com isso, consegui transformar uma aplicação que já era bem estruturada em algo ainda mais profissional e escalável, aprendendo boas práticas de tipagem, componentização e manipulação de estados com mais segurança.
 
